@@ -1,7 +1,10 @@
 ﻿body {
 }
 
-table {
+#bmgTable {
+    position:absolute;
+    top:0%;
+    left:25%;
     border: 1px solid black;
 }
 
@@ -11,6 +14,6 @@ td {
     border: 1px solid black;
 }
 
-#header {
+.header {
     background-color:cornflowerblue;
 }

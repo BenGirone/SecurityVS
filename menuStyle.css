@@ -1,0 +1,51 @@
+﻿body {
+    background-image:url(http://www.greenville.edu/digital-signage/default-backgrounds/greybg1.png);
+}
+
+#menu {
+    position:absolute;
+    height:90%;
+    width:90%;
+}
+
+#menuButton {
+    position:absolute;
+    background-color:cornflowerblue;
+    height:200px;
+    width:300px;
+}
+    #menuButton > span {
+        position:absolute;
+        left:30%;
+        top:30%;
+        text-align:center;
+        color:white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font:800;
+        font-size:xx-large;
+    }
+
+    .security {
+        left:15%;
+        top:25%;
+    }
+
+    .student {
+        left:45%;
+        top:25%;
+    }
+
+    .car {
+        left:75%;
+        top:25%;
+    }
+
+    .event {
+        left:30%;
+        top:50%;
+    }
+
+    .fine {
+        left:60%;
+        top:50%;
+    }

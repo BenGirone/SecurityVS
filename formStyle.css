@@ -1,0 +1,27 @@
+﻿body {
+}
+
+#formDiv {
+    position:absolute;
+    left:2%;
+    width:20%;
+    height:90%;
+}
+    .add {
+        position:absolute;
+        top:0%;
+        padding:15px;
+        border:2px solid cornflowerblue;
+    }
+    .delete {
+        position:absolute;
+        top:25%;
+        padding:15px;
+        border:2px solid cornflowerblue;
+    }
+    .update {
+        position:absolute;
+        top:45%;
+        padding:15px;
+        border:2px solid cornflowerblue;
+    }
